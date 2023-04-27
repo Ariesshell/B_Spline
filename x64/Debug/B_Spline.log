@@ -1,0 +1,14 @@
+﻿  main.cpp
+G:\Engine Project\B_Spline\main.cpp(92,31): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\Engine Project\B_Spline\main.cpp(103,25): warning C4244: “+=”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+G:\Engine Project\B_Spline\main.cpp(104,25): warning C4244: “+=”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+G:\Engine Project\B_Spline\main.cpp(149,35): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  B_Spline.vcxproj -> G:\Engine Project\B_Spline\x64\Debug\B_Spline.exe
